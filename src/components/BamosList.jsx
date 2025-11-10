@@ -1,5 +1,5 @@
 import StateButton01 from './StateButton01';
-import StateButton02 from './StateBUtton02';
+import StateButton02 from './StateButton02';
 
 export default function BamosList({ src }) {
   return (
